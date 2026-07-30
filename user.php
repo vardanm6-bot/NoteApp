@@ -6,10 +6,10 @@ class User {
     public $email;
     public $password;
 
-    private $host = "localhost";
+    private $host = "127.0.0.1";
     private $db_login = "root";
     private $db_password = "root";
-    private $db_name = "Note_db";
+    private $db_name = "railway";
 
     public $connect;
 

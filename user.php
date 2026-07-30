@@ -6,7 +6,7 @@ class User {
     public $email;
     public $password;
 
-    private $host = "127.0.0.1";
+    private $host = "mysql.railway.internal";
     private $db_login = "root";
     private $db_password = "root";
     private $db_name = "railway";

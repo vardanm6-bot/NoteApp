@@ -8,7 +8,7 @@ class User {
 
     private $host = "mysql.railway.internal";
     private $db_login = "root";
-    private $db_password = "root";
+    private $db_password = "scThtPSzLfXpfOwDhqwZKpbeRdFoztNx";
     private $db_name = "railway";
 
     public $connect;
